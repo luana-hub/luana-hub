@@ -107,7 +107,7 @@ Atuo liderando iniciativas de QA, apoiando equipes, promovendo boas práticas e 
 https://github-readme-stats.vercel.app/api?username=luana-hub&show_icons=true&theme=dark&hide_border=true
 
 <!-- Linguagens mais usadas -->
-https://github-readme-stats.vercel.app/api/top-langs/?username=luana-hub&layout=compact&theme=dark&hide_border=true
+https://github-readme-stats.vercel.app/api/top-langs/?username=luanagfsantos&layout=compact&theme=dark&hide_border=true
 
 <!-- Streak -->
 https://streak-stats.demolab.com/?user=luana-hub&theme=dark&hide_border=true

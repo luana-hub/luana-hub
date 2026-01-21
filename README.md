@@ -98,20 +98,21 @@ Atuo liderando iniciativas de QA, apoiando equipes, promovendo boas práticas e 
 
 ---
 
+
 # 📊 Estatísticas do GitHub
 
-<div align="center">
+<div align=
 
-https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&hide_border=true
+<!-- Estatísticas gerais -->
+https://github-readme-stats.vercel.app/api?username=luana-hub&show_icons=true&theme=dark&hide_border=true
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&hide_border=true
+<!-- Linguagens mais usadas -->
+https://github-readme-stats.vercel.app/api/top-langs/?username=luana-hub&layout=compact&theme=dark&hide_border=true
 
-<img src="httpsientados a contratos  
-- CI/CD focado em qualidade contínua  
+<!-- Streak -->
+https://streak-stats.demolab.com/?user=luana-hub&theme=dark&hide_border=true
 
----
-
-<div align="center">
+</div>
 
 ### 💬 *“Qualidade não é um ato, é um hábito.”*
 

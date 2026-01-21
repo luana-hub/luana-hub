@@ -99,20 +99,19 @@ Atuo liderando iniciativas de QA, apoiando equipes, promovendo boas práticas e 
 ---
 
 
+
 # 📊 Estatísticas do GitHub
 
-<div align=
+<div align="center">
 
-<!-- Estatísticas gerais -->
-https://github-readme-stats.vercel.app/api?username=luana-hub&show_icons=true&theme=dark&hide_border=true
+https://github-readme-stats.vercel.app/api?username=luanagfsantos&show_icons=true&theme=dark&hide_border=true
 
-<!-- Linguagens mais usadas -->
 https://github-readme-stats.vercel.app/api/top-langs/?username=luanagfsantos&layout=compact&theme=dark&hide_border=true
 
-<!-- Streak -->
-https://streak-stats.demolab.com/?user=luana-hub&theme=dark&hide_border=true
+https://streak-stats.demolab.com/?user=luanagfsantos&theme=dark&hide_border=true
 
 </div>
+
 
 ### 💬 *“Qualidade não é um ato, é um hábito.”*
 

@@ -1,6 +1,4 @@
-
-
-```md
+``md
 # Teste Markdown
 
 !GitHub Stats

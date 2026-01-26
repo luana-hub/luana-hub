@@ -1,120 +1,119 @@
-
-
 <div align="center">
+
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a8ec84e0-2339-47a8-b316-2cb10012868b" />
 
 
-# ✨ Sobre mim
+# 👩‍💻 Luana Ferreira Santos  
+### Especialista em Qualidade de Software | Automação | CI/CD
 
-Profissional de Qualidade de Software com experiência em testes, automação e processos.  
-MBA em Gestão da Qualidade, certificação **CTFL** e pós-graduação em Engenharia de Software (em andamento).  
-Atuo liderando iniciativas de QA, apoiando equipes, promovendo boas práticas e garantindo entregas com excelência.
+Profissional de **Qualidade de Software** com experiência em testes, automação e processos, atuando na construção de soluções confiáveis, escaláveis e sustentáveis.
+
+MBA em **Gestão da Qualidade**, certificação **CTFL** e pós‑graduação em **Engenharia de Software** (em andamento).
+
+Atuo apoiando times de desenvolvimento, liderando iniciativas de QA e promovendo **qualidade contínua integrada ao ciclo de entrega**.
 
 </div>
 
 ---
 
+## 🔎 Em que eu sou especialista
+
+- ✅ Estratégia e implementação de **automação de testes**
+- ✅ Qualidade integrada a **pipelines CI/CD**
+- ✅ Testes de **API, Web e Performance**
+- ✅ Estruturação de processos e **boas práticas de QA**
+- ✅ Apoio técnico e **mentoria para times de QA e Dev**
+
+---
+
+## 🧰 Stack Técnica
 
 <div align="center">
 
-## **Linguagens**
-![Java](https://img.shields.io/badge/Java-000?logo=openjdk&amp;logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-000?logo=python&logoColor=white)
+### Linguagens
+!Java
+!JavaScript
+!Python
 
 ---
 
-## **Automação & Testes**
-![Selenium](https://img.shields.io/badge/Selenium-000?logo=selenium&amp;logoColor=43B02A)
-![JUnit](https://img.shields.io/badge/JUnit-000?logo=java&amp;logoColor=25A162)
-![Playwright](https://img.shields.io/badge/Playwright-000?logo=playwright&logoColor=white)
-![Appium](https://img.shields.io/badge/Appium-000?logo=appium&logoColor=purple)
-![RestAssured](https://img.shields.io/badge/Rest_Assured-000?logo=java&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-000?logo=postman&amp;logoColor=F76935)
-![Insomnia](https://img.shields.io/badge/Insomnia-000?logo=insomnia&amp;logoColor=8000FF)
----
-
-## **Performance**
-![JMeter](https://img.shields.io/badge/JMeter-000?logo=apachejmeter&logoColor=D22128)
-![LoadRunner](https://img.shields.io/badge/LoadRunner-000?logo=microfocus&logoColor=white)
-![SoapUI](https://img.shields.io/badge/SoapUI-000?logo=smartbear&logoColor=white)
+### Automação & Testes
+!Selenium
+!JUnit
+!Playwright
+!Appium
+!RestAssured
+!Postman
+!Insomnia
 
 ---
 
-## **CI/CD & Gestão**
-
-![Jira](https://img.shields.io/badge/Jira-000?logo=jira&logoColor=0052CC)
-![Xray](https://img.shields.io/badge/Xray-000?logo=x&logoColor=2D9CDB)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-000?logo=bitbucket&logoColor=0052CC)
-![Bamboo](https://img.shields.io/badge/Bamboo-000?logo=atlassian&logoColor=0052CC)
-![Jenkins](https://img.shields.io/badge/Jenkins-000?logo=jenkins&logoColor=D33833)
+### Performance
+!JMeter
+!LoadRunner
 
 ---
 
-## **Dados, Documentação & Logs**
-![SQL](https://img.shields.io/badge/SQL-000?logo=mysql&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-000?logo=confluence&logoColor=white)
-![OpenShift](https://img.shields.io/badge/OpenShift-000?logo=redhatopenshift&logoColor=white)
+### CI/CD & Gestão
+!Jira
+!Xray
+!Bitbucket
+!Jenkins
+
+---
+
+### Dados & Documentação
+!SQL
+!Confluence
+!OpenShift
 
 </div>
 
 ---
 
-# 📂 Projetos
+## 🚀 Projetos em Destaque
 
-### 🔹 **Automação de API – RestAssured**
-- Validações de contrato  
-- Estrutura modular  
+Os projetos abaixo representam minha atuação prática em **engenharia de qualidade**, com foco em **automação**, **CI/CD** e **métricas para tomada de decisão**.
+
+### 🔹 Automação de API
+- Validações de contrato e regras de negócio  
+- Estrutura modular e reutilizável  
+
 🔗 *link_do_repositório*
 
 ---
 
-### 🔹 **Automação Web – Selenium + JUnit**
-- Page Object Model (POM)  
-- Relatórios automatizados  
+### 🔹 Automação Web
+- Page Object Model  
+- Execução paralela e feedback rápido  
+- Integração contínua em CI  
+
 🔗 *link_do_repositório*
 
 ---
 
-### 🔹 **Automação Web – Playwright + JavaScript**
-- Testes rápidos e estáveis  
-- Execução paralela  
+### 🔹 Testes de Performance — JMeter / LoadRunner
+- Cenários de carga e stress  
+- Análise de desempenho e estabilidade  
+
 🔗 *link_do_repositório*
 
 ---
 
-### 🔹 **Testes de Performance – JMeter / LoadRunner**
-🔗 *link_do_repositório*
+> 💡 *Minha atuação em QA é orientada por qualidade contínua, automação estratégica e métricas que apoiam decisões técnicas e de negócio.*
 
 ---
 
-### 🔹 **Coleções de Testes – Postman / Insomnia**
-🔗 *link_do_repositório*
+```md
+## 📊 Estatísticas do GitHub
+
+!GitHub Stats
+
+!Top Langs
+
+!GitHub Streak
 
 ---
-
-### 🔹 **Pipelines CI/CD – Jenkins / Bamboo**
-🔗 *link_do_repositório*
-
----
-
-
-
-# 📊 Estatísticas do GitHub
-
-<div align="center">
-
-https://github-readme-stats.vercel.app/api?username=luanagfsantos&show_icons=true&theme=dark&hide_border=true
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=luanagfsantos&layout=compact&theme=dark&hide_border=true
-
-https://streak-stats.demolab.com/?user=luanagfsantos&theme=dark&hide_border=true
-
-</div>
-
 
 ### 💬 *“Qualidade não é um ato, é um hábito.”*
-
-</div>
-
 

@@ -66,7 +66,7 @@ Os projetos abaixo refletem minha atuação como **SDET**, tratando automação 
 - Testes de contrato e regras de negócio  
 - Estrutura modular e reutilizável  
 
-🔗 [link_do_repositório](https://github.com/LuanaGFSantos/qa-java-automation-lab)
+🔗 link_do_repositório
 
 ---
 

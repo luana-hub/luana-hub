@@ -14,8 +14,8 @@ Atuo próxima aos times de desenvolvimento, criando **automação como código**
 
 ## 🔎 Atuação como SDET
 
-- Desenvolvimento de automação e frameworks de teste  
-- Qualidade integrada ao ciclo de desenvolvimento (SDLC)  
+- Desenvolvimento de frameworks e automação de testes  
+- Qualidade integrada ao ciclo de desenvolvimento (**SDLC**)  
 - Testes automatizados de **API, Web e Performance**  
 - Integração de testes em **pipelines CI/CD**  
 - Código de testes com foco em:
@@ -28,30 +28,30 @@ Atuo próxima aos times de desenvolvimento, criando **automação como código**
 
 ## 🧰 Stack Técnica
 
-**Linguagens**
+### Linguagens
 - Java
 - JavaScript
 - Python
 
-**Automação & Testes**
+### Automação & Testes
 - Selenium, JUnit
 - Playwright
 - Appium
 - RestAssured
 - Postman, Insomnia
 
-**Performance**
+### Performance
 - JMeter
 - LoadRunner
 
-**CI/CD & Qualidade**
+### CI/CD & Qualidade
 - Jenkins
 - Bamboo
 - Jira
 - Xray
 - Bitbucket
 
-**Dados & Documentação**
+### Dados & Documentação
 - SQL
 - Confluence
 - OpenShift
@@ -66,7 +66,7 @@ Os projetos abaixo refletem minha atuação como **SDET**, tratando automação 
 - Testes de contrato e regras de negócio  
 - Estrutura modular e reutilizável  
 
-🔗 link_do_repositório
+🔗 *Em construção*
 
 ---
 
@@ -75,7 +75,7 @@ Os projetos abaixo refletem minha atuação como **SDET**, tratando automação 
 - Execução paralela e feedback rápido  
 - Integração contínua em CI  
 
-🔗 link_do_repositório
+🔗 *Em construção*
 
 ---
 
@@ -83,10 +83,12 @@ Os projetos abaixo refletem minha atuação como **SDET**, tratando automação 
 - Cenários de carga e stress  
 - Análise de desempenho e estabilidade  
 
-🔗 link_do_repositório
+🔗 *Em construção*
 
 ---
 
 > 💡 Qualidade, para mim, é uma disciplina de engenharia sustentada por automação, código limpo e métricas confiáveis.
 
 ---
+
+nsparent&hide

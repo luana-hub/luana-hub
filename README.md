@@ -62,11 +62,11 @@ Atuo próxima aos times de desenvolvimento, criando **automação como código**
 
 Os projetos abaixo refletem minha atuação como **SDET**, tratando automação como **produto de software**, integrada a pipelines e métricas de qualidade.
 
-### 🔹 Automação de API
+### 🔹 Automação de API - RestAssured
 - Testes de contrato e regras de negócio  
 - Estrutura modular e reutilizável  
 
-🔗 link_do_repositório
+🔗 [link_do_repositório](https://github.com/LuanaGFSantos/qa-java-automation-lab)
 
 ---
 

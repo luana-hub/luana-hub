@@ -66,7 +66,7 @@ Os projetos abaixo refletem minha atuação como **SDET**, tratando automação 
 - Testes de contrato e regras de negócio  
 - Estrutura modular e reutilizável  
 
-🔗 *Em construção*
+🔗 link_do_repositório
 
 ---
 
@@ -75,7 +75,7 @@ Os projetos abaixo refletem minha atuação como **SDET**, tratando automação 
 - Execução paralela e feedback rápido  
 - Integração contínua em CI  
 
-🔗 *Em construção*
+🔗 link_do_repositório
 
 ---
 
@@ -83,7 +83,7 @@ Os projetos abaixo refletem minha atuação como **SDET**, tratando automação 
 - Cenários de carga e stress  
 - Análise de desempenho e estabilidade  
 
-🔗 *Em construção*
+🔗 link_do_repositório
 
 ---
 
@@ -91,4 +91,3 @@ Os projetos abaixo refletem minha atuação como **SDET**, tratando automação 
 
 ---
 
-nsparent&hide
